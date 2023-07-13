@@ -4,6 +4,6 @@
 💻 I have a strong background in cybersecurity and a passion for data-driven solutions.
 🔐 My areas of expertise include cybersecurity policy, Python, data analytics, and cloud computing.
 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
-🤝 I enjoy collaborating with others and contributing to open-source projects.
+🤝 I enjoy collaborating with others and contributing to open-source projects. 
 📚 Check out my repositories to see my work and projects. 
 📫 You can reach me at ashton.wolf@yahoo.com or connect with me on LinkedIn.
