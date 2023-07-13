@@ -7,5 +7,3 @@
 🤝 I enjoy collaborating with others and contributing to open-source projects. 
 📚 Check out my repositories to see my work and projects. 
 📫 You can reach me at ashton.wolf@yahoo.com or connect with me on LinkedIn.
-
-
